@@ -9,6 +9,7 @@
     <Company>BranaOS</Company>
     <Product>Opus Core</Product>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <Copyright>Direitos autorais (c) Brennon Oliveira 2025</Copyright>
     <PackageProjectUrl>https://github.com/BranaOS/BranaOS.Opus.Core</PackageProjectUrl>
@@ -18,6 +19,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="LICENSE" Pack="true" />
     <None Include="README.md" Pack="true" PackagePath="\" />
   </ItemGroup>
 
