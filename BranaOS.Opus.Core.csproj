@@ -5,7 +5,6 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>BranaOS.Opus.Core</PackageId>
-    <Version>1.0.0</Version>
     <Authors>Brennon Oliveira</Authors>
     <Company>BranaOS</Company>
     <Product>Opus Core</Product>
